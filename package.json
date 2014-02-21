@@ -43,6 +43,6 @@
     "analysis"
   ],
   "dependencies": {
-    "plato": "~1.0.0"
+    "plato": "git+ssh://git@github.com:gawkermedia/plato.git#master"
   }
 }
